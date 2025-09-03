@@ -1,0 +1,16 @@
+{
+  "name": "grocery_shopping_tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brisa Salazar",
+  "license": "ISC",
+  "description": "Track groceries on a grocery list",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "winston": "^3.17.0"
+  }
+}
