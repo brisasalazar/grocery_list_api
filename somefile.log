@@ -1,210 +1,24 @@
 {
-  message: 'GET request handled',
+  message: 'Hello',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2025-09-03T15:19:16.937Z'
+}
+{
+  message: 'Hello',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2025-09-03T15:24:57.036Z'
+}
+{
+  message: 'Hello',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2025-09-03T15:34:23.855Z'
+}
+{
+  message: 'Hello',
   level: 'info',
   label: 'Grocery List!',
-  timestamp: '2025-09-05T03:13:15.641Z'
-}
-{
-  message: 'GET request handled',
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T03:33:12.853Z'
-}
-{
-  message: 'Invalid POST request, missing fields.',
-  level: 'warn',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T03:33:20.205Z'
-}
-{
-  message: 'Invalid POST request, missing fields.',
-  level: 'warn',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T03:33:31.874Z'
-}
-{
-  message: 'Invalid POST request, missing fields.',
-  level: 'warn',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T03:35:36.172Z'
-}
-{
-  message: 'GET request handled',
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T03:35:47.277Z'
-}
-{
-  message: '{"name":"onion", "quantity":2, "price":1.5, "bought":false}',
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T04:03:12.797Z'
-}
-{
-  message: 'GET request handled',
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T04:03:20.751Z'
-}
-{
-  message: 'GET request handled',
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T04:30:37.857Z'
-}
-{
-  message: 'Invalid POST request, missing fields.',
-  level: 'warn',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T04:40:02.357Z'
-}
-{
-  message: 'Invalid POST request, missing fields.',
-  level: 'warn',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T04:40:53.433Z'
-}
-{
-  message: 'Invalid POST request, missing fields.',
-  level: 'warn',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T04:42:18.240Z'
-}
-{
-  message: 'Invalid POST request, missing fields.',
-  level: 'warn',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T04:43:57.002Z'
-}
-{
-  message: 'Invalid POST request, missing fields.',
-  level: 'warn',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T04:44:39.775Z'
-}
-{
-  message: 'Invalid POST request, missing fields.',
-  level: 'warn',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T04:45:40.875Z'
-}
-{
-  message: 'Invalid POST request, missing fields.',
-  level: 'warn',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T04:49:26.797Z'
-}
-{
-  message: 'Invalid POST request, missing fields.',
-  level: 'warn',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T04:50:58.026Z'
-}
-{
-  message: 'Invalid POST request, missing fields.',
-  level: 'warn',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T04:52:12.991Z'
-}
-{
-  message: { name: 'tomato', quantity: 2, price: 2.4, bought: false },
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:04:52.533Z'
-}
-{
-  message: 'GET request handled',
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:04:59.133Z'
-}
-{
-  message: 'GET request handled',
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:05:53.318Z'
-}
-{
-  message: 'Invalid POST request, missing fields.',
-  level: 'warn',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:06:01.951Z'
-}
-{
-  message: { name: 'tomato', price: 1.5, quantity: 2, bought: false },
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:09:08.922Z'
-}
-{
-  message: 'GET request handled',
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:09:13.709Z'
-}
-{
-  message: { name: 'tomato', bought: true },
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:09:50.406Z'
-}
-{
-  message: 'GET request handled',
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:09:56.914Z'
-}
-{
-  message: 'GET request handled',
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:12:21.385Z'
-}
-{
-  message: 'GET request handled',
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:17:06.197Z'
-}
-{
-  message: { name: 'tomato' },
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:17:33.474Z'
-}
-{
-  message: { name: 'onion', quantity: 2, price: 4.3, bought: false },
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:18:45.216Z'
-}
-{
-  message: 'GET request handled',
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:18:50.731Z'
-}
-{
-  message: { name: 'onion' },
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:19:09.091Z'
-}
-{
-  message: { name: 'onion' },
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:21:08.557Z'
-}
-{
-  message: { name: 'onion' },
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:21:36.684Z'
-}
-{
-  message: 'GET request handled',
-  level: 'info',
-  label: 'Grocery List!',
-  timestamp: '2025-09-05T05:21:41.600Z'
+  timestamp: '2025-09-03T15:37:24.206Z'
 }
